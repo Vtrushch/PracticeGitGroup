@@ -1,1 +1,7 @@
 Here I will store locators for each page
+
+Created the loginPage.java
+Located usernameBox
+Located passwordBox
+Located submitBtn
+....
