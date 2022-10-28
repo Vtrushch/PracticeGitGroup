@@ -1,1 +1,4 @@
 Here I will store important tools and methods
+
+Here i make changes from github
+And now i must move it to intj
