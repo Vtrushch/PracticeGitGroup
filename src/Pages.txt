@@ -2,3 +2,9 @@ Here I will store locators for each page
 
 Created the loginServ.java
 Located usernameBox
+
+........
+
+created new homepage
+Located all models
+
